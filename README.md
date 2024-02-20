@@ -1,8 +1,11 @@
-# React + Vite
+# Theme-Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Theme-Changer is a simple project that dynamically changes the background color of the application. This project leverages the `useContext` Hook in React for state management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Theme**: The application allows for dynamic changes to the background color, enhancing the user interface and user experience.
+- **React `useContext` Hook**: State management in this application is handled using the `useContext` Hook in React. This provides a neat way to pass data through the component tree without having to pass props down manually at every level.
+
+Enjoy using Theme-Changer!
+
